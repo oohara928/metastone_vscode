@@ -1,2 +1,4 @@
 21:22:05 INFO  - Cards in user home folder are up-to-date: rev 15
 21:22:07 WARN  - Auto updater version check failed: java.net.UnknownHostException: demilich.net: Name or service not known
+22:08:57 INFO  - Cards in user home folder are up-to-date: rev 15
+22:08:59 WARN  - Auto updater version check failed: java.net.UnknownHostException: demilich.net: Name or service not known

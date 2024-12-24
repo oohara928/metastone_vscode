@@ -4,13 +4,13 @@
     // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        {
-            "type": "java",
+        /*{
+            "type": "java", 
             "name": "App",
             "request": "launch",
-            "mainClass": "metastone_grd_5.App",
-            "projectName": "metastone_grd_5"
-        },
+            "mainClass": "Metastone",
+            "projectName": "app"
+        },*/
         {
             "type": "java",
             "name": "Current File",
