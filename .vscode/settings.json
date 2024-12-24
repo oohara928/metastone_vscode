@@ -1,0 +1,16 @@
+{
+    // Java
+    "java.jdt.ls.java.home": "/usr/lib/jvm/jdk-1.8-oracle-x64",
+ 
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "gradle.nestedProjects": false,
+    "java.compile.nullAnalysis.mode": "automatic",
+    "gradle.debug": true,
+    "java.gradle.buildServer.enabled": "off",
+    "java.format.settings.url": ".vscode/java-formatter.xml",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

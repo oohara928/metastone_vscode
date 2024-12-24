@@ -1,0 +1,5 @@
+{
+    // Java
+    "java.jdt.ls.java.home": "/usr/lib/jvm/jdk-1.8-oracle-x64",
+    "gradle.nestedProjects": false
+}
